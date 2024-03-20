@@ -1,6 +1,6 @@
 # Gravitar-Atari
 Video juego inspirado en la version de Gravitar Atari 1982 utilizando gráficos de líneas en SDL2.
-Realizado como proyecto final en la materia 'Algoritmos y Programacion I' dada en FIUBA.
+Realizado como proyecto final junto con un compañero en la materia 'Algoritmos y Programacion I' dada en FIUBA.
 Este video juego consta con un menu inicial donde se muestran una nave, la cual la manipula el usuario, diferentes planetas y una estrella, cada planeta representa un nivel con una complejidad dada.
 
 ##  Nave
