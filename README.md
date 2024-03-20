@@ -21,3 +21,4 @@ Las figuras del videojuego se guardaron por unica vez en la memoria, mientras qu
 
 ## Imagenes
 Las siguientes imagens muestran el menu inicial y los distintos niveles.
+![Testo alternatico](gravitar_menu.jpeg)
