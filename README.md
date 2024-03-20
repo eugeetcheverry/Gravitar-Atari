@@ -19,6 +19,9 @@ A medida que se van superando los niveles se obtienen puntos hasta eventualmente
 En este proyecto se utilizo el lenguaje C manejando la memoria dinamica y testeando con Valgrind. 
 Las figuras del videojuego se guardaron por unica vez en la memoria, mientras que las variables fueron guardadas en el heap.
 
+## Ejecucion
+para poder compilar y ejucat el programa se debe contar con la aplicacion XLaunch
+
 ## Imagenes
 Las siguientes imagens muestran el menu inicial y los distintos niveles.
 ![Texto alternativo](gravitar_menu.jpg)
