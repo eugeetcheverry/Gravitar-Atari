@@ -5,7 +5,7 @@ Este video juego consta con un menu inicial donde se muestran una nave, la cual 
 
 ##  Nave
 Se tuvo en cuenta la fisica del juego, calculando una 'gravedad' que afecta a la nave en el menu inicial y en cada planeta(los cuales representan diferentes niveles).
-La nave posee tres vidas, estas se pueden perder al ser atraida por la gravedad de la estrella del menu principal o al morir en un nivel.
+La nave posee 3 vidas, estas se pueden perder al ser atraida por la gravedad de la estrella del menu principal o al morir en un nivel.
 
 ## Estrella 
 Esta estrella del menu principal cumple la funcion de generar una 'gravedad', lo cual dificulta la movilidad de la nave. En el caso de que la nave caiga en la estrella, la misma pierde una vida.
